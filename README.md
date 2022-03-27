@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @OldYoungBoy
-- 👀 I’m interested in ... programming espacially C/C** and Perl
-- 🌱 I’m currently learning ... piano
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in C/C++ and Perl programming
+- 🌱 I’m currently learning piano
+- 💞️ I’m looking to collaborate on themes not defined yet. As I new to github I will see what will come up.
+- 📫 You can reach me by email
+
 
 <!---
 OldYoungBoy/OldYoungBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
